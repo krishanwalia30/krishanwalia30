@@ -1,6 +1,8 @@
 # <p align= "center"> 👋 Hey, This is Krishan Walia </p>
 I am currently an undergraduate student at a university based in India. I not just enjoy playing around technology but also love developing it. I really appreciate the positive impacts created by the advancements in technology that has shaped our lifestyle. I enjoy developing new tech solutions to help the community and the people.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishanwalia30&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
+
 ## <p align ="center">👀 What interests me...</p>
 I am a person with multiple interests, though some of the things which excites me are,-
 * Quantum Computing
@@ -67,7 +69,7 @@ I am a person with multiple interests, though some of the things which excites m
 
 ## <p align= "center"> 📫 My Profiles </p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -> www.linkedin.com/in/krishan-walia
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishan-walia) 
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) -> https://www.codechef.com/users/krishan_30
 
@@ -80,6 +82,7 @@ I am a person with multiple interests, though some of the things which excites m
 
 
 
+![](https://komarev.com/ghpvc/?username=krishanwalia30&color=red)
 
 
 <!---
