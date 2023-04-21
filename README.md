@@ -69,16 +69,13 @@ I am a person with multiple interests, though some of the things which excites m
 
 ## <p align= "center"> 📫 My Profiles </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishan-walia) 
+[![LinkedIn](https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/krishan-walia) 
 
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) -> https://www.codechef.com/users/krishan_30
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/krishan_30)
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) -> https://medium.com/@krishanw30
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishanw30)
 
-![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719) -> https://krishanwalia.substack.com
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -> krishanw30@gmail.com
-
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://krishanwalia.substack.com)
 
 
 
@@ -89,4 +86,5 @@ I am a person with multiple interests, though some of the things which excites m
 krishanwalia30/krishanwalia30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 TO GET THE ICONS => https://github.com/Ileriayo/markdown-badges
+SYNTAX TO MAKE A LINK IMAGE => [![name](link to image on GH)](link to your URL)
 --->
