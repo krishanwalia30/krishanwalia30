@@ -6,11 +6,9 @@ I am currently an undergraduate student at a university based in India. I not ju
 ## <p align ="center">👀 What interests me...</p>
 I am a person with multiple interests, though some of the things which excites me are,-
 * Quantum Computing
-* IOT
 * Machine Learning & Artificial Intelligence
-* Blockchain
 * Ethical Hacking & Cyber Security
-* Software Development
+* App and Web Development
 * Entrepreneurship
 * Psychology
 
