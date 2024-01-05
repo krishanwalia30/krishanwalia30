@@ -1,6 +1,6 @@
-## <p align= "left"> 👋 Hey there, I am Krishan Walia </p>
+### [👋](https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)  Hey there, I am Krishan Walia
 
-![](https://komarev.com/ghpvc/?username=krishanwalia30&color=red)
+
 <table><tr><td valign="top" height="50%">
 
 <div>
@@ -15,23 +15,41 @@
 
 </td></tr></table>  
 
+![](https://komarev.com/ghpvc/?username=krishanwalia30&color=red)
+
+<div>
+  <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/d87cfd1c-a110-4871-aa60-1a08a5570bd2' height='100px' /img>
+  <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/b883da95-1fb0-4de5-bce6-145282b7ec52' height='100px' /img>
+  <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/139cf9ef-21dd-41c7-bec2-feb321f8d1a7' height='100px' /img>
+<!--   <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/3ffee40e-22b9-4947-ae35-ea8a5d8c42b' height='100px' /img> -->
+  <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/3485c8b1-8a25-47c1-a05c-ecee1b2fed1e' height='100px' width= '200px' /img>
+  <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/1fff68bb-9115-4143-a93c-f7162b294ffa' height='100px' /img>
+
+<!--   ![PythonPoweredGIF](https://github.com/krishanwalia30/krishanwalia30/assets/101003187/3485c8b1-8a25-47c1-a05c-ecee1b2fed1e)
+![CodingGIF (2)](https://github.com/krishanwalia30/krishanwalia30/assets/101003187/1fff68bb-9115-4143-a93c-f7162b294ffa) -->
+
+</div>
+
+<br>
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=krishanwalia30&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
 -->
 
-## 👀 What interests me...</p>
+### 👀 What interests me...</p>
 I am a person with multiple interests, though some of the things which excites me are,-
-* Quantum Computing
-* Machine Learning & Artificial Intelligence
-* Ethical Hacking & Cyber Security
-* App and Web Development
-* Entrepreneurship
-* Psychology
+* ⚛️ Quantum Computing
+* 🤖 Machine Learning & Artificial Intelligence
+* 🧑🏻‍💻 Ethical Hacking & Cyber Security
+* 📲 App and Web Development
+* 🧑🏻‍💼 Entrepreneurship
+* 🧠 Psychology
 
-##  ⚒️ Tried Hands on,
+<br>
 
-### Programming Languages & Markup Languages 
+###  ⚒️ Tried Hands on,
+
+#### Programming Languages & Markup Languages 
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -47,9 +65,7 @@ I am a person with multiple interests, though some of the things which excites m
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>  
 
-
-
-### Framework and Libraries  
+#### Framework and Libraries  
 <div align="left">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -68,8 +84,7 @@ I am a person with multiple interests, though some of the things which excites m
 </td><td valign="top" width="33%">
 
 
-
-### Databases and Cloud Hosting  
+#### Databases and Cloud Hosting  
 <div align="left">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
@@ -84,7 +99,7 @@ I am a person with multiple interests, though some of the things which excites m
 </td><td valign="top" width="33%">
 
 
-### Softwares and Tools  
+#### Softwares and Tools  
 <div align="left">  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -146,27 +161,46 @@ I am a person with multiple interests, though some of the things which excites m
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 -->
+<br>
 
-## Github Stats 
-<table>
+### Github Stats 
+
+<table><tr><td valign="top" height="50%">
   
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=krishanwalia30&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+</td><td valign="top" height="200px">
+  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanwalia30&hide_border=true&layout=compact" align="center" /></div> 
-</table>
+
+</td></tr></table>  
 
 
+<br>
 
-## <p align= "center"> 📫 My Profiles </p>
+### <p align= "center"> 📫 Connect With Me </p>
 
+<div align=center>
+  
 
-[![LinkedIn](https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/krishan-walia) 
+<a href="https://github.com/krishanwalia30" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/_Krishan_Walia_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/krishan-walia" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@krishanw30" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>
 
+<!--
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/krishan_30)
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishanw30)
-
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://krishanwalia.substack.com)
-
+-->
 
 
 
