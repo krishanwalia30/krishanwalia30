@@ -1,4 +1,4 @@
-### [👋](https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)  Hey there, I am Krishan Walia
+## [👋](https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)  Hey there, I am Krishan Walia
 
 
 <table><tr><td valign="top" height="50%">
@@ -10,46 +10,47 @@
 </td><td valign="top" height="200px">
   
 <div>
-    I am currently an undergraduate student at a university based in India. I not just enjoy playing around technology but also love developing it. I really appreciate the positive impacts created by the advancements in technology that has shaped our lifestyle. I enjoy developing new tech solutions to help the community and the people.    
+  I am an undergraduate student at Delhi Technological University, an India-based university. I have a background in industrial engineering, which has given me immense exposure to the problems and issues faced by industries and people in their daily tasks. Being passionate about the possibilities of advancing technology and how these advancements are affecting the overall growth of different sectors that serve mankind, I try building solutions for the community and thereby doing my part in making people's lives easier and more meaningful.
 </div>
 
 </td></tr></table>  
 
 ![](https://komarev.com/ghpvc/?username=krishanwalia30&color=red)
 
+<!-- 
 <div>
   <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/d87cfd1c-a110-4871-aa60-1a08a5570bd2' height='100px' /img>
   <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/b883da95-1fb0-4de5-bce6-145282b7ec52' height='100px' /img>
   <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/139cf9ef-21dd-41c7-bec2-feb321f8d1a7' height='100px' /img>
-<!--   <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/3ffee40e-22b9-4947-ae35-ea8a5d8c42b' height='100px' /img> -->
+<!-- 
   <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/3485c8b1-8a25-47c1-a05c-ecee1b2fed1e' height='100px' width= '200px' /img>
   <img src = 'https://github.com/krishanwalia30/krishanwalia30/assets/101003187/1fff68bb-9115-4143-a93c-f7162b294ffa' height='100px' /img>
 
 <!--   ![PythonPoweredGIF](https://github.com/krishanwalia30/krishanwalia30/assets/101003187/3485c8b1-8a25-47c1-a05c-ecee1b2fed1e)
-![CodingGIF (2)](https://github.com/krishanwalia30/krishanwalia30/assets/101003187/1fff68bb-9115-4143-a93c-f7162b294ffa) -->
+![CodingGIF (2)](https://github.com/krishanwalia30/krishanwalia30/assets/101003187/1fff68bb-9115-4143-a93c-f7162b294ffa) 
 
-</div>
+</div> -->
 
-<br>
+
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=krishanwalia30&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
 -->
 
-### 👀 What interests me...</p>
-I am a person with multiple interests, though some of the things which excites me are,-
-* ⚛️ Quantum Computing
+## 👀 What interests me...</p>
+I am a person with multiple interests, though some of the things which excite me are,-
+* ⚛️ Quantum Computing and Quantum Machine Learning
 * 🤖 Machine Learning & Artificial Intelligence
 * 🧑🏻‍💻 Ethical Hacking & Cyber Security
 * 📲 App and Web Development
 * 🧑🏻‍💼 Entrepreneurship
 * 🧠 Psychology
 
-<br>
 
-###  ⚒️ Tried Hands on,
 
-#### Programming Languages & Markup Languages 
+##  ⚒️ Tried Hands-on,
+
+### Programming Languages & Markup Languages 
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -65,7 +66,7 @@ I am a person with multiple interests, though some of the things which excites m
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>  
 
-#### Framework and Libraries  
+### Framework and Libraries  
 <div align="left">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -84,7 +85,7 @@ I am a person with multiple interests, though some of the things which excites m
 </td><td valign="top" width="33%">
 
 
-#### Databases and Cloud Hosting  
+### Databases and Cloud Hosting  
 <div align="left">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
@@ -99,7 +100,7 @@ I am a person with multiple interests, though some of the things which excites m
 </td><td valign="top" width="33%">
 
 
-#### Softwares and Tools  
+### Softwares and Tools  
 <div align="left">  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -161,9 +162,9 @@ I am a person with multiple interests, though some of the things which excites m
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 -->
-<br>
 
-### Github Stats 
+
+## Github Stats 
 
 <table><tr><td valign="top" height="50%">
   
@@ -181,9 +182,9 @@ I am a person with multiple interests, though some of the things which excites m
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krishanwalia30)](https://git.io/streak-stats)
 -->
 
-<br>
 
-### <p align= "center"> 📫 Connect With Me </p>
+
+## <p align= "center"> 📫 Connect With Me </p>
 
 <div align=center>
   
