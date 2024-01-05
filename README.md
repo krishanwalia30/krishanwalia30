@@ -169,12 +169,17 @@ I am a person with multiple interests, though some of the things which excites m
   
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=krishanwalia30&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-</td><td valign="top" height="200px">
+</td><td valign="top" height="150px">
+<div align="left"><img src="https://streak-stats.demolab.com/?user=krishanwalia30" align="center" /></div> 
   
+</td><td valign="top" height="150px">
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanwalia30&hide_border=true&layout=compact" align="center" /></div> 
 
-</td></tr></table>  
 
+</td></tr></table>  
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishanwalia30)](https://git.io/streak-stats)
+-->
 
 <br>
 
