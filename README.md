@@ -41,10 +41,11 @@
 I am a person with multiple interests, though some of the things which excite me are,-
 * ⚛️ Quantum Computing and Quantum Machine Learning
 * 🤖 Machine Learning & Artificial Intelligence (Especially MlOps)
-* 🧑🏻‍💻 Ethical Hacking & Cyber Security
 * 📲 App and Web Development (Using Flutter and Django)
+* 🧑🏻‍💻 Ethical Hacking & Cyber Security
 * 🧑🏻‍💼 Entrepreneurship
 * 🧠 Psychology
+
 
 
 
